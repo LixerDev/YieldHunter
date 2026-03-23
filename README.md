@@ -2,7 +2,7 @@
 
 Real-time DeFi yield aggregator for Solana. Pulls live APY data from **Kamino**, **MarginFi**, **Solend**, and **Drift**, ranks every opportunity by risk-adjusted return, and tells you exactly where to put your capital for maximum yield.
 
-**Built by LixerDev**
+**Built by LixerDev** Follow me here on my personal Twitter (X): https://x.com/Lix_Devv
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Python](https://img.shields.io/badge/python-3.11+-green)
