@@ -1,6 +1,7 @@
 # 🌾 YieldHunter
 
-Real-time DeFi yield aggregator for Solana. Pulls live APY data from **Kamino**, **MarginFi**, **Solend**, and **Drift**, ranks every opportunity by risk-adjusted return, and tells you exactly where to put your capital for maximum yield.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d8893cad-0c9d-44b4-95d7-40af692c9ab5" />
+
 
 **Built by LixerDev** Follow me here on my personal Twitter (X): https://x.com/Lix_Devv
 
