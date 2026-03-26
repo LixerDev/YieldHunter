@@ -144,3 +144,8 @@ main.py (CLI)
             ├── Alerter           → Discord webhook + change detection
             └── Dashboard         → Rich live terminal display
 ```
+
+# 🌾 Coin
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7e05e377-9917-4d8f-8918-6076de490331" />
+
